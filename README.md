@@ -1,2 +1,8 @@
-# ai-learning-journey
-My code repository for AI/Machine Learning projects and practice.
+## 关于我
+我是一个正在从零开始学习人工智能的2026届毕业生。这个仓库将记录我的学习历程、练习代码和项目。
+
+## 当前学习目标
+- [x] 创建GitHub仓库
+- [ ] 完成Python基础语法学习
+- [ ] 完成第一个命令行工具
+- [ ] 开始学习机器学习基础
